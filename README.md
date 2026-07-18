@@ -44,9 +44,6 @@ My experience combines **machine learning, data analysis, digital design, and ha
 
 ## Data Science & Machine Learning
 
-Experienced with building and analyzing machine learning solutions using:
-
-Areas of experience:
 - Supervised learning
 - Model evaluation and optimization
 - Feature engineering
@@ -55,8 +52,6 @@ Areas of experience:
 
 ## DSP & Signal Processing
 
-Knowledge in:
-
 - Digital Signal Processing fundamentals
 - Signal analysis
 - Filtering techniques
@@ -64,8 +59,6 @@ Knowledge in:
 - Mathematical modeling
 - 
 ## Digital Design & Verification
-
-Knowledge and hands-on experience with:
 
 - RTL design using Verilog
 - SystemVerilog testbench development
@@ -86,4 +79,4 @@ Verilog and SystemVerilog implementations covering RTL design and verification m
 
 ## 📫 Contact
 
-Feel free to explore my repositories and connect with me!
+Feel free to explore my repositories and connect with me via mtomerm@gmail.com
